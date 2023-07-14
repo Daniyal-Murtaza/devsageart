@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $package = filter_var($package, FILTER_SANITIZE_STRING);
 
     // Create the email message
-    $to = 'info@devsageart.com';
+    $to = 'info@devsageart.tech';
     $subject = 'New form submission';
     $body = "Name: $name\n";
     $body .= "Email: $email\n";
