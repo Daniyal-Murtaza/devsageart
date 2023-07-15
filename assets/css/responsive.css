@@ -1,0 +1,447 @@
+@media only screen and (min-width: 1601px) and (max-width: 1920px){}
+@media only screen and (min-width: 1366px) and (max-width: 1599px){
+    .mcta {background-position: bottom; }
+
+    .innserservice-commonfolds.socialmm {background-position: right -35px; }
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px){
+    html {overflow-x: hidden !important; }
+    body {overflow-x: hidden !important; }
+    .mheader .mainbarr .boxednav .navigation .linkingchannel li a {font-size: 15px; }
+    .mcta.adding_ssec {padding: 30px 0 10px; }
+    h2 {font-size: 35px !important; }
+    .comboopack .combopackwrap .footterr .left .btnwrap {width: 100%; padding: 0; }
+    .comboopack .combopackwrap .footterr .left .txtt {width: 100%; margin-bottom: 30px; margin-left: 10px; }
+    .mservices {padding-bottom: 40px; }
+    .solutionssec .mainfigure img {width: 100% !important; }
+
+    .mcta {background-position: bottom; padding: 60px 0px; }
+    .comboopack .combopackwrap .headdd figure img {display: none; }
+
+    .innserservice-commonfolds.socialmm {background-position: right -5px; }
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    
+    html {overflow-x: hidden !important; }
+    body {overflow-x: hidden !important; }
+    .mheader .mainbarr .boxednav .navigation .infochannel {width: 57%;display: flex;align-items: center;justify-content: end;}
+    .mobile-nav-btn {background: #ef3d5b; top: 5%; right: 4%; }
+    .mobile-nav-btn span {background: #fff; }
+    .mobile-nav-btn span:before {background: #fff; }
+    .mobile-nav-btn span:after {background: #fff; }
+    .floatbutton {display: none !important; }
+    .btn-primary {font-size: 13px;}
+    .mobile-nav.active img {width: 50%; }
+    .packagesmain .packk .packlliist .mypack {width: 46%; }
+    .comboopack .combopackwrap .headdd figure img {display: none; }
+    .comboopack .combopackwrap .footterr .right figure img {display: block;}
+    .comboopack .combopackwrap .footterr {padding: 20px 20px;display: flex;align-items: center;}
+    .comboopack .combopackwrap .footterr .left {width: 100%;display: flex;flex-direction: column;gap: 30px;}
+    .comboopack .combopackwrap .footterr .right {width: 100%; text-align: left; }
+    .comboopack .combopackwrap .footterr .right .price {width: 100%;text-align: end;margin: 20px 0px;}
+    .comboopack .combopackwrap .footterr .right .orderbtn {width: 100%;display: flex;align-items: center;justify-content: end;gap: 10px;}
+    .comboopack {padding-bottom: 30px; }
+    .mservices {padding: 40px 0px; }
+    .mservices .mainfigure {width: 100% !IMPORTANT; height: 500px !IMPORTANT; background-size: cover !important; }
+    .mservices .textwrap .subheading {margin-top: 30px; }
+    .mservices .box.fixwidth {width: 33.33%;}
+    .valuablewrp {padding: 30px 0px 70px; }
+    .queryform .textwrap h2 {font-size: 30px; }
+    .queryform {padding: 30px 0px; }
+    .bot-form form .fldset {margin-bottom: 10px; }
+    .bot-form form input[type="submit"] {margin-top: -20px; }
+    section.Faqs {padding: 40px 0px; }
+    .footer-top .socialmid {display: none; }
+    .bottomSec {position: initial; background-color: #000; }
+    .home-banner {height: 100%; padding: 15% 0 5%; }
+    .home-banner-content .subtitle {font-size: 20px; }
+    .mcta.adding_ssec {padding: 30px 0px 0px;background-position: 85% 100%;}
+    .mheader .mainbarr .boxednav .navigation {display: flex; align-items: center; justify-content: center; padding-left: 10px; }
+    .mheader .mainbarr .boxednav .navigation .linkingchannel {width: 100%; text-align: center; }
+    .mheader .mainbarr .boxednav .navigation .linkingchannel li a {font-size: 13px; padding: 0 0; }
+    .mheader .mainbarr .boxednav .navigation .infochannel li .numbercta {font-size: 12px; }
+    .mheader .mainbarr .boxednav .navigation .linkingchannel li {padding: 0 7px; }
+    h1 {font-size: 35px !IMPORTANT; }
+    .b_link:before {top: 19px; }
+    h2 {font-size: 30px !IMPORTANT; }
+    .portfolioboxes {padding: 40px 0px; }
+    .packagesmain {padding: 40px 0px; }
+    .comboopack .combopackwrap .footterr .left .txtt {width: 100%; }
+    .comboopack .combopackwrap .footterr .left .btnwrap {width: 100%; padding-left: 0; }
+    .logo_n {display: none; }
+    .footer-top h3 {font-size: 17px; }
+
+    .innserservice-commonfolds h2 {font-size: 29px; }
+    .innserservice-commonfolds p {font-size: 15px; }
+    .mcta {padding: 40px 0px;background-position: bottom;}
+    .packagesmain {padding: 40px 0px; }
+    .solutionssec .textwrap h2 {font-size: 30px; }
+    .solutionssec .textwrap.mwrapp {margin-bottom: 0; }
+
+    .solutionssec .mainfigure img {width: 100% !important; }
+    .solutionssec .textwrap .solutionslist li {font-size: 14px; }
+    .solutionssec .textwrap p {font-size: 14px; }
+
+    .innserservice-commonfolds.socialmm {background-position: right 15px; }
+
+
+    
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+    html {overflow-x: hidden !important; }
+    body {overflow-x: hidden !important; }
+    .mheader .mainbarr .boxednav .navigation .linkingchannel {display: none; }
+    .mheader .mainbarr .boxednav .navigation .infochannel {width: 90%; display: flex; align-items: center; justify-content: end; }
+    .mobile-nav-btn {/* background: #ef3d5b; */top: 7%;right: 4%;z-index: 1111;}
+    .mobile-nav-btn span {background: #ef3d5b;}
+    .mobile-nav-btn span:before {background: #ee3c5b;}
+    .mobile-nav-btn span:after {background: #ee3c5b;}
+    .floatbutton {display: none !important; }
+    .btn-primary {font-size: 15px; }
+    .mobile-nav.active img {width: 50%; }
+    .packagesmain .packk .packlliist .mypack {width: 46%; }
+    .comboopack .combopackwrap .headdd figure img {display: none; }
+    .comboopack .combopackwrap .footterr .right figure img {display: none;}
+    .comboopack .combopackwrap .footterr {padding: 20px 20px; display: flex; align-items: center; flex-direction: column; }
+    .comboopack .combopackwrap .footterr .left {width: 100%; text-align: center; }
+    .comboopack .combopackwrap .footterr .right {width: 100%; text-align: left; }
+    .comboopack .combopackwrap .footterr .right .price {width: 100%; text-align: center; margin: 20px 0px; }
+    .comboopack .combopackwrap .footterr .right .orderbtn {width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px; }
+    .comboopack {padding-bottom: 30px; }
+    .mservices {padding: 40px 0px; }
+    .mservices .mainfigure {width: 100% !IMPORTANT; height: 500px !IMPORTANT; background-size: cover !important; }
+    .mservices .textwrap .subheading {margin-top: 30px; }
+    .mservices .box.fixwidth {width: 100%; }
+    .valuablewrp {padding: 30px 0px 70px; }
+    .queryform .textwrap h2 {font-size: 30px; }
+    .queryform {padding: 30px 0px; }
+    .bot-form form .fldset {margin-bottom: 10px; }
+    .bot-form form input[type="submit"] {margin-top: -20px; }
+    section.Faqs {padding: 40px 0px; }
+    .footer-top .socialmid {display: none; }
+    .bottomSec {position: initial; background-color: #000; }
+    .home-banner {height: 100%; padding: 15% 0 5%; }
+    .home-banner-content .subtitle {font-size: 20px; }
+    .mcta.adding_ssec {padding: 30px 0px 0px; }
+    a.blink_me.mob_only {display: none; }
+
+
+    /*inner pages css*/
+
+
+    .myinnersection {height: 100%; padding-bottom: 60px; }
+    .methodologysec .myfigure {width: 100%; height: 500px; background-size: cover; }
+    .mcta h2 {font-size: 30px; }
+    .myinnersection .textwrap h1 {font-size: 40px; }
+    .myinnersection .textwrap p {font-size: 18px; }
+    .packagesmain h2 {font-size: 29px; }
+    .portfolioboxes .portwrappp h2 {font-size: 30px; }
+    .contactinfo .textwrap h2 {font-size: 40px; }
+
+    .innserservice-commonfolds h2 {font-size: 29px; }
+    .innserservice-commonfolds p {font-size: 15px; }
+    .mcta {padding: 40px 0px; }
+    .packagesmain {padding: 40px 0px; }
+    .solutionssec .textwrap h2 {font-size: 30px; }
+    .solutionssec .textwrap.mwrapp {margin-bottom: 0; }
+
+    .comboopack .combopackwrap .footterr .left .txtt {width: 50%; }
+    .comboopack .combopackwrap .footterr .left .btnwrap {width: 49%; margin-top: 20px; }
+    .solutionssec {background-size: 100%; padding: 50px 0px; }
+
+    .portfolioboxes {padding: 40px 0px; }
+    .comboopack .combopackwrap .bodyyy {padding: 30px 10px; }
+    .comboopack .combopackwrap .bodyyy .coll ul li {font-size: 13px; }
+
+    .custompackages .textwrap h2 {font-size: 28px; }
+
+    .innserservice-commonfolds.socialmm {background-position: right 65px; }
+
+    .subscribe-fold .myheading {font-size: 35px; }
+    .subs-pac a.ordrrrr {font-size: 12px; }
+    .actions.row {flex-direction: column; }
+    .actions.row .col-md-5 {max-width: 100%; }
+    .actions.row .col-md-7 {max-width: 100%; }
+    .subscribe-fold h3 {font-size: 20px; }
+    .subscribe-fold .table-packages .head h5 {font-size: 24px; }
+
+
+}
+
+
+@media only screen and (min-width: 520px) and (max-width: 767px){
+        
+        html {overflow-x: hidden !important; }
+        body {overflow-x: hidden !important; }
+        .mheader .mainbarr .boxednav .navigation .linkingchannel {display: none; }
+        .mheader.stickyheader {height: 80px;}
+        .home-banner {height: 100%;padding-top: 20%;padding-bottom: 4%;}
+        h1 {font-size: 32px !IMPORTANT;width: 100%;line-height: 36px !IMPORTANT;}
+        h2 {font-size: 26px !IMPORTANT;width: 100%;}
+        p {font-size: 16px !important;width: 100%;}
+        .mheader .mainbarr .boxednav {padding: 20px 0px; }
+        .mheader .mainbarr .boxednav .navigation .infochannel {display: none; }
+        .floatbutton {display: none !IMPORTANT; }
+        .mobile-nav-btn span {background-color: #000; }
+        .mobile-nav-btn .lines:before {background: #ee3c5b;}
+        .mobile-nav-btn .lines:after {background: #ee3c5b;}
+        .mainvideo {object-fit: cover; }
+        .newcbysaf .home-banner-content ul li {font-size: 14px; }
+        .btn-primary {font-size: 14px; padding: 10px 15px; }
+        .btn-secondary-outline {font-size: 13px; padding: 10px 20px; }
+        .b_link:before {display: none; }
+        .mobile-nav-btn {z-index: 100;top: 7%;/* background: #ee3c5b; */right: 3%;}
+        .mobile-nav-btn span {background: #ee3c5b;}
+        .bottomSec {position: unset; background: #000; }
+        .bottomSec ul li img {margin: 0 auto; }
+        .mcta.adding_ssec {padding: 30px 0px 0; }
+        .btn-wrap {display: flex;align-items: center;justify-content: flex-start;}
+        .portfolioboxes {padding: 35px 0px; }
+        .portfolioboxes .tab-custom .tabbing-links li {font-size: 14px; padding: 6px 20px; }
+        .portfolioboxes .portwrappp .mportt li {width: 100%; }
+        .packagesmain {padding: 35px 0px; }
+        .packagesmain h2 {line-height: 30px; }
+        .packagesmain .packk .packlliist .mypack {width: 93%; padding: 20px; margin: 0 auto; margin-bottom: 50px !important; }
+        .packagesmain .packk .packlliist .mypack .bdy .listscroll li {font-size: 13px; }
+        .packagesmain .packk .packlliist .mypack.popular:before {top: -5%; }
+        .comboopack .combopackwrap .headdd figure img {display: none; }
+        .comboopack .combopackwrap .headdd {padding: 20px; }
+        .comboopack .combopackwrap .headdd h3 {font-size: 25px; }
+        .comboopack .combopackwrap .bodyyy {padding: 20px 10px; }
+        .comboopack .combopackwrap .bodyyy .coll {width: 100%; }
+        .comboopack .combopackwrap .footterr {padding: 20px 10px; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; }
+        .comboopack .combopackwrap .footterr .left {width: 100%; }
+        .comboopack .combopackwrap .footterr .right {width: 100%; }
+        .comboopack .combopackwrap .footterr .right figure img {display: none; }
+        .comboopack .combopackwrap .footterr .left .txtt h4 {font-size: 18px; }
+        .comboopack .combopackwrap .footterr .left .btnwrap {width: 100%; display: flex; flex-direction: column; gap: 10px; }
+        .comboopack .combopackwrap .footterr .left .txtt {width: 100%; text-align: center; margin-bottom: 10px; }
+        .comboopack .combopackwrap .footterr .right .price {width: 100%;text-align: center;}
+        .comboopack .combopackwrap .footterr .right .orderbtn {width: 100%; text-align: center; margin-top: 10px; }
+        .comboopack .combopackwrap .footterr .right .orderbtn .viewdetails {text-align: center; }
+        .comboopack {padding-bottom: 30px; }
+        .mservices {padding: 30px 0px; }
+        .mservices .mainfigure {width: 100%; height: 300px; background-size: cover !IMPORTANT; }
+        .mservices .textwrap .subheading {text-align: center; margin-top: 40px; }
+        .mservices .box {padding: 0; }
+        .mservices .box figure {width: 15%;}
+        .mservices .box a {display: flex; align-items: baseline; }
+        .mservices .box .txt {width: 100%; }
+        .mservices .box.fixwidth {width: 100%; margin-top: 10px; }
+        .valuablewrp {padding: 30px 0px 70px; }
+        .queryform {padding: 40px 0px; }
+        .Faqs .accordion h2 button {font-size: 15px !IMPORTANT; text-align: left !IMPORTANT; display: block; white-space: break-spaces; }
+        .Faqs .card-header {padding: 10px 0px; text-align: center; overflow: hidden; }
+        .Faqs .accordion h2 {text-align: left !important; }
+        section.Faqs .card-body {font-size: 14px; }
+        .footer-top .socialmid .left {width: 100%; }
+        .footer-top .socialmid .right {width: 100%; }
+        .footer-top .socialmid .right img {width: 70% !IMPORTANT;margin: 0 auto !IMPORTANT;display: block;}
+        .footer-nav2 {float: none; display: flex; align-items: center; justify-content: center; }
+        .footer-top .socialmid {margin: 20px 0px 0px; padding-bottom: 30px; }
+        .footer-bottom {padding: 10px 0px; }
+        section.Faqs {padding: 35px 0px; }
+        .copyright {text-align: center; margin-bottom: 10px; }
+        .footer-bottom a {margin: 0 auto; }
+        .logo_n {display: none;}
+        .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {text-align: center; }
+        .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {text-align: center; }
+        .textwrap img {width: 60%; margin: 0 auto; display: block; }
+        .mobile-nav.active img {width: 50%; }
+        a.mob_only {position: absolute;top: 33px;right: 80px;color: #ef3d5b;font-size: 16px;font-weight: 600;}
+        header.mheader {position: fixed;background-color: #fff;width: 100%;z-index: 10;height: 80px;}
+        .mheader .wlogo {display: block !IMPORTANT; }
+        .mheader .mainbarr .boxednav .logo a img {display: none; }
+        .footer-nav2 {display: flex; flex-direction: column; float: none; }
+        .footer-nav2 li {padding: 0; }
+        .footer-nav2 li:before {display: none; }
+        a.mob_only {position: absolute;top: 33px;right: 60px;color: #ef3d5b;font-size: 16px;font-weight: 600;}
+        a.blink_me.mob_only {display: block !IMPORTANT; }
+        a.blink_me.mob_only span {margin-right: 10px; vertical-align: middle; }
+        
+        /*inner pages css*/
+
+        .myinnersection {height: 100%; padding: 50px 0px 30px; }
+        .abtinfo {padding: 40px 0px; }
+        .clientssec {padding: 30px 0 50px; }
+        .methodologysec {padding: 40px 0px; }
+        .methodologysec .myfigure {height: 300px;background-size: cover;width: 100%;}
+        .mcta {padding: 40px 0px; }
+        .btn-secondary {font-size: 13px; }
+        .queryform.innerfrom {padding: 100px 0px 30px;}
+        .queryform.innerfrom .bot-form {width: 100%; }
+        .contactinfo .formwrap {padding: 30px 0px; }
+
+        .innserservice-commonfolds.clogo {background-image: none; }
+        .solutionssec {padding: 40px 0px;background-position: 100% 20%;background-size: 100%;}
+        .solutionssec .textwrap.mwrapp {margin-bottom: 40px; }
+        .solutionssec .mainfigure img {width: 100% !IMPORTANT; }
+        .solutionssec .textwrap .solutionslist li {width: 100%; }
+        .footer-top img {width: 40% !important; margin-bottom: 10px; }
+
+        .innserservice-commonfolds.cwebdesign {background-image: none; padding: 30px 0px; }
+
+        .innserservice-commonfolds.webapp {background-image: none; padding: 40px 0px; }
+
+        .custompackages .topwrap {padding: 10px; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+        .custompackages .textwrap {width: 100%;text-align: center;}
+        .custompackages .btnwrap {width: 100%; text-align: center; }
+
+        .innserservice-commonfolds.mobapp {background-image: none; padding: 40px 0px; }
+
+        .innserservice-commonfolds.seo {background-image: none; padding: 40px 0px; }
+
+        .innserservice-commonfolds.cwriting {background-image: none; padding: 40px 0px; }
+        .innserservice-commonfolds.socialmm {background-image: none; padding: 40px 0px; }
+        .subscribe-fold .mytext {margin-bottom: 20px !important; }
+        .subs-pac {height: 100%;padding-top: 30px;}
+
+        .subscribe-fold h3 {font-size: 18px; }
+        .subs-pac a.ordrrrr {font-size: 12px; padding: 10px; }
+        .subs-pac h6 {font-size: 23px; }
+         
+
+}
+
+@media only screen and (min-width: 300px) and (max-width: 519px){
+    .home-banner .video-overlay{display: none;}
+
+        html {overflow-x: hidden !important; }
+        body {overflow-x: hidden !important; }
+        .mheader .mainbarr .boxednav .navigation .linkingchannel {display: none; }
+        .mheader.stickyheader {height: 80px;}
+        .home-banner {height: 100%; padding-top: 30%; padding-bottom: 10%; background: url(../images/mob-bg.jpg); background-repeat: no-repeat;
+    background-size: cover;}
+        h1 {font-size: 25px !IMPORTANT; width: 100%; }
+        h2 {font-size: 22px !IMPORTANT; width: 100%; }
+        .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {text-align: center; }
+        .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {text-align: center; } p {font-size: 14px !important; width: 100%; }
+        .mheader .mainbarr .boxednav {padding: 20px 0px; }
+        .mheader .mainbarr .boxednav .navigation .infochannel {display: none; }
+        .floatbutton {display: none !IMPORTANT; }
+        .mobile-nav-btn span {background-color: #000; }
+        .mobile-nav-btn .lines:before {background: #ee3c5b;}
+        .mobile-nav-btn .lines:after {background: #ee3c5b;}
+        .mainvideo { display: none;}
+        .newcbysaf .home-banner-content ul li {font-size: 14px; }
+        .btn-primary {font-size: 14px; padding: 10px 15px; }
+        .btn-secondary-outline {font-size: 13px; padding: 10px 20px; }
+        .b_link:before {display: none; }
+        .mobile-nav-btn {z-index: 100;top: 30px;/* background: #ee3c5b; */right: 3%;}
+        .mobile-nav-btn span {background: #ee3c5b;}
+        .bottomSec {position: unset; background: #000; }
+        .bottomSec ul li img {margin: 0 auto; }
+        .mcta.adding_ssec {padding: 30px 0px 0; }
+        .btn-wrap {display: flex;align-items: center;/* justify-content: center; */}
+        .portfolioboxes {padding: 35px 0px; }
+        .portfolioboxes .tab-custom .tabbing-links li {font-size: 14px; padding: 6px 20px; }
+        .portfolioboxes .portwrappp .mportt li {width: 100%; }
+        .packagesmain {padding: 35px 0px; }
+        .packagesmain h2 {line-height: 30px; }
+        .packagesmain .packk .packlliist .mypack {width: 93%; padding: 20px; margin: 0 auto; margin-bottom: 50px !important; }
+        .packagesmain .packk .packlliist .mypack .bdy .listscroll li {font-size: 13px; }
+        .packagesmain .packk .packlliist .mypack.popular:before {top: -5%; }
+        .comboopack .combopackwrap .headdd figure img {display: none; }
+        .comboopack .combopackwrap .headdd {padding: 20px; }
+        .comboopack .combopackwrap .headdd h3 {font-size: 25px; }
+        .comboopack .combopackwrap .bodyyy {padding: 20px 10px; }
+        .comboopack .combopackwrap .bodyyy .coll {width: 100%; }
+        .comboopack .combopackwrap .footterr {padding: 20px 10px; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 20px; }
+        .comboopack .combopackwrap .footterr .left {width: 100%; }
+        .comboopack .combopackwrap .footterr .right {width: 100%; }
+        .comboopack .combopackwrap .footterr .right figure img {display: none; }
+        .comboopack .combopackwrap .footterr .left .txtt h4 {font-size: 18px; }
+        .comboopack .combopackwrap .footterr .left .btnwrap {width: 100%; display: flex; flex-direction: column; gap: 10px; }
+        .comboopack .combopackwrap .footterr .left .txtt {width: 100%; text-align: center; margin-bottom: 10px; }
+        .comboopack .combopackwrap .footterr .right .price {width: 100%;text-align: center;}
+        .comboopack .combopackwrap .footterr .right .orderbtn {width: 100%; text-align: center; margin-top: 10px; }
+        .comboopack .combopackwrap .footterr .right .orderbtn .viewdetails {text-align: center; }
+        .comboopack {padding-bottom: 30px; }
+        .mservices {padding: 30px 0px; }
+        .mservices .mainfigure {width: 100%; height: 300px; background-size: cover !IMPORTANT; }
+        .mservices .textwrap .subheading {text-align: center; margin-top: 40px; }
+        .mservices .box {padding: 0; }
+        .mservices .box figure {width: 20%;}
+        .mservices .box a {display: flex; align-items: baseline; }
+        .mservices .box .txt {width: 100%; }
+        .mservices .box.fixwidth {width: 100%; margin-top: 10px; }
+        .valuablewrp {padding: 30px 0px 70px; }
+        .queryform {padding: 40px 0px; }
+        .Faqs .accordion h2 button {font-size: 15px !IMPORTANT; text-align: left !IMPORTANT; display: block; white-space: break-spaces; }
+        .Faqs .card-header {padding: 10px 0px; text-align: center; overflow: hidden; }
+        .Faqs .accordion h2 {text-align: left !important; }
+        section.Faqs .card-body {font-size: 14px; }
+        .footer-top .socialmid .left {width: 100%; }
+        .footer-top .socialmid .right {width: 100%; }
+        .footer-top .socialmid .right img {width: 100%; }
+        .footer-nav2 {float: none; display: flex; align-items: center; justify-content: center; }
+        .footer-top .socialmid {margin: 20px 0px 0px; padding-bottom: 30px; }
+        .footer-bottom {padding: 10px 0px; }
+        section.Faqs {padding: 35px 0px; }
+        .copyright {text-align: center; margin-bottom: 10px; }
+        .footer-bottom a {margin: 0 auto; }
+        .logo_n {display: none;}
+        a.mob_only {position: absolute;top: 33px;right: 60px;color: #ef3d5b;font-size: 16px;font-weight: 600;}
+        header.mheader {position: fixed;background-color: #fff;width: 100%;z-index: 10;height: 80px;}
+        .mheader .wlogo {display: block !IMPORTANT;width: 100% !important;}
+        .mheader .mainbarr .boxednav .logo a img {display: none;}
+        .mobile-nav.active img {width: 50%; }
+        a.blink_me.mob_only {display: block !IMPORTANT; }
+        a.blink_me.mob_only span {margin-right: 10px; vertical-align: middle;}
+
+        /*inner pages css*/
+
+        .myinnersection {height: 100%; padding: 50px 0px 30px; }
+        .abtinfo {padding: 40px 0px; }
+        .clientssec {padding: 30px 0 50px; }
+        .methodologysec {padding: 40px 0px; }
+        .methodologysec .myfigure {height: 300px; background-size: cover; }
+        .mcta {padding: 40px 0px; }
+        .btn-secondary {font-size: 13px; }
+        .queryform.innerfrom {padding: 110px 0px 30px;}
+        .queryform.innerfrom .bot-form {width: 100%; }
+        .mcta .subheading {font-size: 12px; }
+        .contactinfo .formwrap {padding: 30px 0px; }
+
+        .innserservice-commonfolds.clogo {background-image: none; }
+        .solutionssec {padding: 40px 0px;background-size: 100%;background-position: 100% 20%;}
+        .solutionssec .textwrap.mwrapp {margin-bottom: 40px; }
+        .solutionssec .mainfigure img {width: 100% !IMPORTANT; }
+        .solutionssec .textwrap .solutionslist li {width: 100%; }
+
+        .innserservice-commonfolds.cwebdesign {background-image: none; padding: 30px 0px; }
+        .innserservice-commonfolds.ecommerce {background-image: none; padding: 40px 0px; }
+        .innserservice-commonfolds .subheading {font-size: 14px; }
+
+
+        .innserservice-commonfolds.webapp {background-image: none; padding: 40px 0px; }
+        .custompackages .topwrap {padding: 10px; display: flex; align-items: center; justify-content: center; flex-direction: column; }
+        .custompackages .textwrap {width: 100%; }
+        .custompackages .btnwrap {width: 100%; text-align: center; }
+
+        .innserservice-commonfolds.video {background-image: none; padding: 40px 0px; }
+
+        .packagesmain .packk .packlliist .mypack:last-child {margin-bottom: 0 !important; }
+
+        .innserservice-commonfolds.mobapp {background-image: none; padding: 40px 0px; }
+
+        .innserservice-commonfolds.seo {background-image: none; padding: 40px 0px; }
+
+        .innserservice-commonfolds.cwriting {background-image: none; padding: 40px 0px; }
+
+        .innserservice-commonfolds.socialmm {background-image: none; padding: 40px 0px; }
+
+        .subscribe-fold .mytext {margin-bottom: 20px !important; }
+
+}
+
+
+
