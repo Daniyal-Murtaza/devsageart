@@ -545,7 +545,7 @@ a  {
     width:  100%;
 }
 .dropdown > ul > li:hover {
-    background: goldenrod;
+    background: orange;
     color:  #fff;
 }
 .dropdown  ul li:hover a {
@@ -557,7 +557,7 @@ a  {
 .dropdown > ul > li+li {
 }
 .dropdown > ul > li > a {
-    color: #36454F !important;
+    color: #0F1111 !important;
     font-size:  16px;
     text-decoration: none;
     padding: 8px 10px 8px 15px;
@@ -597,10 +597,10 @@ a  {
 .mheader.stickyheader .logo img  {
 }
 .mheader.stickyheader .mainbarr .boxednav .navigation .linkingchannel li a {
-    color: #36454F;
+    color: #0F1111;
 }
 .mheader.stickyheader .mainbarr .boxednav .navigation .infochannel li .numbercta {
-    color: #36454F;
+    color: #0F1111;
 }
 .nav-area-full.stickyhead  {
     position:  fixed;
@@ -1315,7 +1315,7 @@ a  {
     display:  block;
 }
 .form-box-main form label.field-txt span  {
-    color: goldenrod;
+    color: orange;
 }
 .form-box-main form input[type="text"],  .form-box-main form input[type="email"],  .form-box-main form input[type="number"],  .form-box-main form input[type="tel"],  .form-box-main form textarea  {
     width:  100%;
@@ -1541,7 +1541,7 @@ form.cmxform .gray *  {
     text-align:  center;
     clear: both;
 }
-.btn-blue {
+.btn-#0F1111 {
     color:  #fff;
     background:  #4a8cfc;
     padding:  14px 50px;
@@ -1555,7 +1555,7 @@ form.cmxform .gray *  {
     border-radius:  30px;
     border:  1px solid #fff;
 }
-.btn-blue:hover {
+.btn-#0F1111:hover {
     transform:  translateY(-3.925px);
     color:  #fff;
 }
@@ -1626,7 +1626,7 @@ form.cmxform .gray *  {
 .bot-form form select, .bot-form form input[type="text"],  .bot-form form input[type="email"],  .bot-form form input[type="number"],  .bot-form form input[type="tel"],  .bot-form form textarea {
     width:  100%;
     margin:  0 0 0 0;
-    border:  1px solid #36454F;
+    border:  1px solid #c6c6c6;
     background:  transparent;
     padding:  10px 15px;
     color:  white;
@@ -1769,31 +1769,32 @@ form.cmxform .gray *  {
     position:  absolute;
     left:  0;
     top:  2px;
-    color: goldenrod;
+    color: orange;
 }
 .mheader .mainbarr .boxednav .navigation .infochannel li a {
 }
 .btn-primary-outline {
     background-color:  #fff;
-    color: goldenrod;
+    color: orange;
     font-size:  16px;
-    border:  1px solidgoldenrod;
+    border:  1px solid orange;
     padding:  10px 25px;
     border-radius:  30px;
     display:  inline-block;
     font-weight:  600;
 }
 .btn-primary-outline:hover {
-    background: goldenrod;
+    background: orange;
+    
     color:  #fff;
 }
 .btn-primary-outline:active {
 }
 .btn-primary {
-    background-color: goldenrod;
+    background-color: orange;
     color:  #fff;
     font-size:  16px;
-    border:  1px solidgoldenrod;
+    border:  1px solid orange;
     padding:  14px 30px;
     border-radius:  30px;
     display:  inline-block;
@@ -1801,15 +1802,15 @@ form.cmxform .gray *  {
 }
 .btn-primary:hover {
     background-color:  #fff;
-    color: goldenrod;
+    color: orange;
     font-size:  16px;
-    border:  1px solidgoldenrod;
+    border:  1px solid orange;
 }
 .btn-primary:active {
     background-color:  #fff;
-    color: goldenrod;
+    color: orange;
     font-size:  16px;
-    border:  1px solidgoldenrod;
+    border:  1px solid orange;
 }
 .container-custom {
     max-width:  1285px;
@@ -1822,10 +1823,10 @@ form.cmxform .gray *  {
     margin-right:  10px;
 }
 .btn-secondary {
-    background-color:  goldenrod;
+    background-color:  #000;
     color:  #fff;
     font-size:  16px;
-    /* border:  1px solid#36454F; */
+    border:  2px solid#0F1111;
     padding:  14px 25px;
     border-radius:  30px;
     display:  inline-block;
@@ -1834,37 +1835,37 @@ form.cmxform .gray *  {
 }
 .btn-secondary:hover {
     background-color:  #fff;
-    color:  goldenrod;
+    color:  orange;
     font-size:  16px;
-    /* border:  1px solid#36454F; */
+    border:  2px solid#0F1111;
 }
 .btn-secondary:active {
     background-color:  #fff;
-    color: #36454F;
+    color: #0F1111;
     font-size:  16px;
-    border:  1px solid#36454F;
+    border:  1px solid#0F1111;
 }
 .btn-secondary-outline {
     background-color:  #fff;
-    color: #36454F;
+    color: #0F1111;
     font-size:  16px;
-    border:  1px solid#36454F;
+    border:  1px solid#0F1111;
     padding:  14px 30px;
     border-radius:  30px;
     display:  inline-block;
     font-weight:  600;
 }
 .btn-secondary-outline:hover {
-    background-color: #36454F;
+    background-color: #0F1111;
     color:  #fff;
     font-size:  16px;
-    border:  1px solid#36454F;
+    border:  1px solid#0F1111;
 }
 .btn-secondary-outline:active {
-    background-color: #36454F;
+    background-color: #0F1111;
     color:  #fff;
     font-size:  16px;
-    border:  1px solid#36454F;
+    border:  1px solid#0F1111;
 }
 .bottomSec  {
     position:  absolute;
@@ -1904,8 +1905,8 @@ form.cmxform .gray *  {
 .mservices .textwrap {
 }
 .mservices .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 220, 205);
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -1915,7 +1916,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .mservices .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -1946,7 +1947,7 @@ form.cmxform .gray *  {
     width:  92%;
 }
 .mservices .box .txt h3 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  25px;
 }
 .mservices .box.fixwidth {
@@ -1980,8 +1981,8 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .solutionssec .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -1991,7 +1992,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .solutionssec .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -2011,13 +2012,13 @@ form.cmxform .gray *  {
     width:  50%;
     padding-left:  20px;
     padding-bottom:  10px;
-    color: #36454F;
+    color: #0F1111;
     position:  relative;
 }
 .solutionssec .textwrap .solutionslist li:before {
     content:  "\e957";
     font-family:  'icomoon' !important;
-    color: goldenrod;
+    color: orange;
     position:  absolute;
     left:  0px;
 }
@@ -2036,12 +2037,12 @@ form.cmxform .gray *  {
 .testimonialsss .testslider .item figure img {
     border-radius:  50%;
     width:  70px;
-    border:  2px solidgoldenrod;
+    border:  2px solid orange;
     margin:  0 auto;
 }
 .testimonialsss .testslider .item blockquote {
     text-align:  center;
-    color: #36454F;
+    color: #0F1111;
     position:  relative;
     font-size:  26px;
     line-height:  1.6;
@@ -2172,8 +2173,8 @@ form.cmxform .gray *  {
     width: 45%;
 }
 . .portfolioboxes .portwrappp .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -2183,7 +2184,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .portfolioboxes .portwrappp h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -2202,7 +2203,7 @@ form.cmxform .gray *  {
     margin-bottom:  40px;
 }
 .portfolioboxes .tab-custom .tabbing-links li {
-    color: goldenrod;
+    color: orange;
     font-size:  16px;
     padding:  12px 20px;
     border-radius:  30px;
@@ -2214,11 +2215,11 @@ form.cmxform .gray *  {
 }
 .portfolioboxes .tab-custom .tabbing-links li.current {
     transition:  all .2s ease-in-out;
-    background-color: goldenrod;
+    background-color: orange;
     color:  #fff;
 }
 .portfolioboxes .tab-custom .tabbing-links li:hover {
-    background-color: goldenrod;
+    background-color: orange;
     color:  #fff;
     transition:  all .2s ease-in-out;
 }
@@ -2234,8 +2235,8 @@ form.cmxform .gray *  {
     background:  #f6f6f8;
 }
 .packagesmain .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 220, 205);
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -2245,7 +2246,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .packagesmain h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -2282,9 +2283,9 @@ form.cmxform .gray *  {
     left:  0;
     right:  0;
     top:  -15px;
-    background-color:#36454F;
+    background-color: rgb(228, 220, 205);
     margin:  0 auto;
-    color: goldenrod;
+    color: orange;
     font-size:  18px;
     border-radius:  30px;
     display:  inline-block;
@@ -2315,7 +2316,7 @@ form.cmxform .gray *  {
     margin-bottom:  20px;
 }
 .packagesmain .packk .tab-custom .tabbing-links li {
-    color: goldenrod;
+    color: orange;
     font-size:  16px;
     padding:  12px 20px;
     border-radius:  30px;
@@ -2327,11 +2328,11 @@ form.cmxform .gray *  {
 }
 .packagesmain .packk .tab-custom .tabbing-links li.current {
     transition:  all .2s ease-in-out;
-    background-color: goldenrod;
+    background-color: orange;
     color:  #fff;
 }
 .packagesmain .packk .tab-custom .tabbing-links li:hover {
-    background-color: goldenrod;
+    background-color: orange;
     color:  #fff;
     transition:  all .2s ease-in-out;
 }
@@ -2344,12 +2345,12 @@ form.cmxform .gray *  {
 .packagesmain .packk .packlliist .mypack .pkhead h3 {
     font-size:  21px;
     font-weight:  600;
-    color: #36454F;
+    color: #0F1111;
     line-height:  1;
     padding-bottom:  20px;
 }
 .packagesmain .packk .packlliist .mypack .pkhead h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  48px;
     font-weight:  500;
     padding-bottom:  10px;
@@ -2376,7 +2377,7 @@ form.cmxform .gray *  {
 .packagesmain .packk .packlliist .mypack .bdy .listscroll li:before {
     content:  "\e91a";
     font-family:  'icomoon' !important;
-    color: goldenrod;
+    color: orange;
     position:  absolute;
     left:  0;
     top:  0;
@@ -2404,7 +2405,7 @@ form.cmxform .gray *  {
     padding:  80px 0;
     text-align:  left;
     background:  #2c214a;
-    background-image:  url(../images/cta.jpg);
+    background-image:  url(../images/cta.png);
     background-repeat:  no-repeat;
     background-size:  cover;
     width:  100%;
@@ -2482,7 +2483,7 @@ form.cmxform .gray *  {
     width:  100%;
 }
 .footer-main  {
-    background: #36454F;
+    background: #0F1111;
 }
 .footer-top  {
     padding:  60px 0 0;
@@ -2555,19 +2556,19 @@ form.cmxform .gray *  {
     color: #1da1f2;
 }
 .ftr-social li a:hover span.icon-google-plus  {
-    color: goldenrod;
+    color: orange;
 }
 .ftr-social li a:hover span.icon-linkedin  {
     color: #007bb6;
 }
 .ftr-social li a:hover span.icon-youtube-play  {
-    color: goldenrod;
+    color: orange;
 }
 .ftr-social li a:hover span.icon-pinterest-p {
-    color:  goldenrod;
+    color:  orange;
 }
 .ftr-social li a:hover span.icon-instagram {
-    color:  goldenrod;
+    color:  orange;
 }
 .ftr-social li a:hover span.icon-vimeo {
     color:  #4EBBFF;
@@ -2711,7 +2712,7 @@ form.cmxform .gray *  {
     font-weight:  700;
     position:  relative;
     text-transform:  uppercase;
-    background-color: goldenrod;
+    background-color: orange;
     box-shadow:  0px 0px 40px #00000026;
     -webkit-box-shadow:  0px 0px 40px #00000026;
     -ms-box-shadow:  0px 0px 40px #00000026;
@@ -2816,7 +2817,7 @@ form.cmxform .gray *  {
     margin:  20px 0 0;
     border:  transparent;
     cursor:  pointer;
-    background-color: goldenrod;
+    background-color: orange;
 }
 .ban-form textarea {
     width:  100%;
@@ -2842,7 +2843,7 @@ form.cmxform .gray *  {
 }
 .btns_wrap .call_wrap {
     width:  280px;
-    background-color: goldenrod;
+    background-color: orange;
     position:  absolute;
     right:  -225px;
     top:  63px;
@@ -2868,7 +2869,7 @@ form.cmxform .gray *  {
     position:  absolute;
     right:  -225px;
     width:  280px;
-    background-color: goldenrod;
+    background-color: orange;
     top:  0;
     border-radius:  0px;
     overflow:  hidden;
@@ -2971,13 +2972,13 @@ form.cmxform .gray *  {
     background: #1da1f2;
 }
 .ftr-social2 li a span.icon-google-plus  {
-    background: goldenrod;
+    background: orange;
 }
 .ftr-social2 li a span.icon-linkedin  {
     background: #007bb6;
 }
 .ftr-social2 li a span.icon-youtube-play  {
-    background: goldenrod;
+    background: orange;
 }
 .ftr-social3  {
     display:  inline-block;
@@ -3081,8 +3082,8 @@ form.cmxform .gray *  {
 .subscribe-main input:-ms-input-placeholder  {
     color:  #9d9d9d;
 }
-.footer-bottom  {
-    background: #36454F;
+.footer-bottom  {   
+    background: #0F1111;
     padding:  30px 0;
 }
 .footer-nav2  {
@@ -3145,7 +3146,7 @@ form.cmxform .gray *  {
     font-weight:  500;
 }
 .queryform  {
-    background-color: goldenrod;
+    background-color: orange;
     padding:  80px 0;
 }
 .queryform.innerfrom  {
@@ -3160,8 +3161,8 @@ form.cmxform .gray *  {
     padding:  80px 0;
 }
 .queryform.innerfrom .textwrap .subheading  {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 208, 171);
 }
 .queryform.innerfrom .textwrap h2  {
     color:  #070707;
@@ -3195,9 +3196,9 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .queryform .textwrap .subheading {
-    color:  goldenrod;
+    color:  #fff;
     padding:  8px 20px;
-    background-color: #36454F;
+    background-color: rgb(231, 185, 98);
     font-size:  16px;
     border-radius:  30px;
     display:  inline-block;
@@ -3206,13 +3207,13 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .queryform .textwrap h2 {
-    color: #36454F;
+    color: #fff;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
 }
 .queryform .textwrap p {
-    color:  #36454F;
+    color:  #fff;
     font-size:  18px;
     padding-bottom:  40px;
 }
@@ -3273,10 +3274,10 @@ form.cmxform .gray *  {
 .mheader .mainbarr .boxednav .navigation .linkingchannel li:hover {
 }
 .mheader .mainbarr .boxednav .navigation .linkingchannel li:hover a {
-    color: goldenrod;
+    color: orange;
 }
 .mheader .mainbarr .boxednav .navigation .linkingchannel li.active a {
-    color: goldenrod;
+    color: orange;
 }
 .myinnersection {
     width:  100%;
@@ -3310,8 +3311,8 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .abtinfo .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 208, 171);
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3321,7 +3322,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .abtinfo .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  30px;
@@ -3339,7 +3340,7 @@ form.cmxform .gray *  {
 }
 .clientssec  {
     padding:  80px 0;
-    background-color: #36454F;
+    background-color: #0F1111;
 }
 .clientssec .textwrap {
 }
@@ -3348,8 +3349,8 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .clientssec .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3387,8 +3388,8 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .methodologysec .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 208, 171);
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3398,7 +3399,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .methodologysec .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  30px;
@@ -3427,14 +3428,14 @@ form.cmxform .gray *  {
 }
 .methodologysec .mbox .text h3 {
     font-size:  24px;
-    color: #36454F;
+    color: #0F1111;
     line-height:  1.2;
 }
 .methodologysec .mbox .text p {
     padding-bottom:  10px;
 }
 .methodologysec .mbox .text a {
-    color: goldenrod;
+    color: orange;
     font-weight:  500;
     text-decoration:  underline;
     transition:  color .2s ease-in-out;
@@ -3459,8 +3460,8 @@ form.cmxform .gray *  {
     margin-bottom:  100px;
 }
 .contactinfo .textwrap .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3470,7 +3471,7 @@ form.cmxform .gray *  {
     margin-bottom:  15px;
 }
 .contactinfo .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  60px;
     font-weight:  700;
     padding-bottom:  30px;
@@ -3481,7 +3482,7 @@ form.cmxform .gray *  {
     padding-bottom:  0;
 }
 .contactinfo .textwrap h3 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  24px;
     font-weight:  500;
     margin-top: 30px;
@@ -3522,7 +3523,7 @@ form.cmxform .gray *  {
     width:  100%;
 }
 .contactinfo .formwrap form .fldset input[type="text"]:focus, .contactinfo .formwrap form .fldset input[type="email"]:focus, .contactinfo .formwrap form .fldset input[type="number"]:focus, .contactinfo .formwrap form .fldset textarea:focus, .contactinfo .formwrap form .fldset select:focus {
-    border-bottom-color:goldenrod;
+    border-bottom-color:orange;
 }
 .ddparrow {
     position:  relative;
@@ -3546,7 +3547,7 @@ form.cmxform .gray *  {
 }
 .packagesmain .packk .packlliist .mypack .bdy .listscroll li.heading {
     font-weight:  700;
-    color: goldenrod;
+    color: orange;
 }
 .packagesmain .packk .packlliist .mypack .bdy .listscroll li.heading:before {
     display:  none;
@@ -3614,7 +3615,7 @@ form.cmxform .gray *  {
     text-align:  center;
 }
 .subs-pac h6  {
-    color: goldenrod;
+    color: orange;
     font-size:  40px;
     font-weight:  700;
     display:  inline-block;
@@ -3657,7 +3658,7 @@ form.cmxform .gray *  {
     color:  #555;
 }
 .subs-pac.bronze:hover  {
-    background: goldenrod;
+    background: orange;
 }
 .subs-pac span  {
     display:  block;
@@ -3676,12 +3677,12 @@ form.cmxform .gray *  {
     cursor:  pointer;
     display:  inline-block;
     font-size:  16px;
-    background: goldenrod;
+    background: orange;
     font-family:  var(--heading-font-family);
 }
 .subs-pac:hover a.ordrrrr  {
     background:  #ffffff;
-    color: goldenrod;
+    color: orange;
 }
 .subs-pac .actions  {
     border-top:  1px solid #eeeeee;
@@ -3708,7 +3709,7 @@ form.cmxform .gray *  {
     display:  inline-block;
     margin:  0px;
 }
-.subs-pac.bronze:hover h3,  .subs-pac.bronze:hover h6,  .subs-pac.bronze:hover span,  .subs-pac.silver:hover h3,  .subs-pac.silver:hover h6,  .subs-pac.silver:hover span,  .subs-pac.goldenrod:hover h3,  .subs-pac.goldenrod:hover h6,  .subs-pac.goldenrod:hover span  {
+.subs-pac.bronze:hover h3,  .subs-pac.bronze:hover h6,  .subs-pac.bronze:hover span,  .subs-pac.silver:hover h3,  .subs-pac.silver:hover h6,  .subs-pac.silver:hover span,  .subs-pac.orange:hover h3,  .subs-pac.orange:hover h6,  .subs-pac.orange:hover span  {
     color:  #fff;
 }
 .subs-pac:hover h6 b  {
@@ -3826,7 +3827,7 @@ sub-list  {
     padding:  0px 0 0;
 }
 .subscribe-fold .table-packages .body ul li.heading {
-    color: goldenrod;
+    color: orange;
     font-weight:  700;
 }
 .subscribe-fold .table-packages .body .subscription-list  {
@@ -3858,7 +3859,7 @@ sub-list  {
     font-weight:  200;
 }
 .personal .newsle p a {
-    color: goldenrod;
+    color: orange;
     text-decoration:  none;
 }
 .personal .newsle p a:hover {
@@ -3892,7 +3893,7 @@ sub-list  {
     margin:  0;
 }
 .personal .newsle ul li a {
-    color: goldenrod;
+    color: orange;
 }
 .personal .newsle ul li a:hover {
     text-decoration:  underline;
@@ -3902,7 +3903,7 @@ sub-list  {
     margin:  0 0 5px;
     text-align:  left;
     font-weight:  700;
-    color: goldenrod;
+    color: orange;
     line-height:  22px;
 }
 .mbileapp  {
@@ -3912,8 +3913,8 @@ sub-list  {
     padding:  0 0 0 0;
 }
 .mbileapp .textwrp .subheading  {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3923,7 +3924,7 @@ sub-list  {
     margin-bottom:  15px;
 }
 .mbileapp .textwrp h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -3963,8 +3964,8 @@ sub-list  {
     padding:  0 0 0 0;
 }
 .wbstecas .textwrp .subheading  {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -3974,7 +3975,7 @@ sub-list  {
     margin-bottom:  15px;
 }
 .wbstecas .textwrp h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -4096,7 +4097,7 @@ sub-list  {
 .valuablewrp .maindiv .icli .round {
     display:  inline-block;
     width:  60px;
-    background: goldenrod;
+    background: orange;
     margin-right:  20px;
     height:  60px;
     border-radius:  50%;
@@ -4119,7 +4120,7 @@ sub-list  {
 .valuablewrp .maindiv .icli .clname h6 {
     font-size:  15px;
     margin:  0 0 5px;
-    color: goldenrod;
+    color: orange;
     padding:  0;
     font-family:  inherit;
     font-weight:  500;
@@ -4134,8 +4135,8 @@ sub-list  {
     font-weight:  500;
 }
 .valuablewrp .txtwrp .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:rgb(228, 220, 205);
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -4145,7 +4146,7 @@ sub-list  {
     margin-bottom:  15px;
 }
 .valuablewrp .txtwrp h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -4195,8 +4196,8 @@ sub-list  {
     margin:  70px 0 40px;
 }
 .innserservice-commonfolds .subheading {
-    color: goldenrod;
-    background-color:#36454F;
+    color: orange;
+    background-color:#0F1111;
     padding:  8px 20px;
     font-size:  16px;
     border-radius:  30px;
@@ -4206,7 +4207,7 @@ sub-list  {
     margin-bottom:  15px;
 }
 .innserservice-commonfolds h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
@@ -4339,7 +4340,7 @@ input.error  {
     line-height:  1.4;
     padding-bottom:  0;
     letter-spacing:  0.5px;
-    color: #36454F;
+    color: #0F1111;
 }
 .mheader .wlogo {
     display:  none;
@@ -4373,22 +4374,22 @@ input.error  {
     box-shadow:  0px 10px 23px #0000000d;
 }
 .innerpgee .mheader .mainbarr .boxednav .navigation .linkingchannel li a {
-    color: #36454F;
+    color: #0F1111;
 }
 .innerpgee .mheader .mainbarr .boxednav .navigation .infochannel li .numbercta {
-    color: #36454F;
+    color: #0F1111;
 }
 .slick-prev:before {
     content:  "\f104";
     font-family:  FontAwesome;
     font-size:  50px;
-    color: goldenrod;
+    color: orange;
 }
 .slick-next:before {
     content:  "\f105";
     font-family:  FontAwesome;
     font-size:  50px;
-    color: goldenrod;
+    color: orange;
 }
 .testmslider1 .slick-prev,  .testmslider1 .slick-next {
     top:  40%;
@@ -4409,7 +4410,7 @@ input.error  {
 }
 .comboopack .combopackwrap .headdd {
     padding:  20px 50px;
-    background: goldenrod;
+    background: orange;
     text-align:  left;
     position:  relative;
 }
@@ -4456,14 +4457,14 @@ input.error  {
 .comboopack .combopackwrap .bodyyy .coll ul li:before {
     content:  "\e91a";
     font-family:  'icomoon' !important;
-    color: goldenrod;
+    color: orange;
     position:  absolute;
     left:  0;
     top:  0;
 }
 .comboopack .combopackwrap .bodyyy .coll ul li.heading {
     font-weight:  700;
-    color: goldenrod;
+    color: orange;
     padding-left:  0;
 }
 .comboopack .combopackwrap .bodyyy .coll ul li.heading:before {
@@ -4472,7 +4473,7 @@ input.error  {
 .comboopack .combopackwrap .footterr {
     padding:  30px 50px;
     font-size:  0;
-    background:  #36454F;
+    background:  #0F1111;
     border-top:  1px solid #f3f3f3;
 }
 .comboopack .combopackwrap .footterr .left {
@@ -4488,12 +4489,12 @@ input.error  {
     vertical-align:  middle;
 }
 .comboopack .combopackwrap .footterr .left .btnwrap .numbercta {
-    color:  goldenrod;
+    color:  orange;
     font-size:  16px;
     font-weight:  600;
     margin-right:  15px;
     padding:  14px 20px;
-    border:  1px solid goldenrod;
+    border:  1px solid orange;
     border-radius:  30px;
 }
 
@@ -4501,12 +4502,12 @@ input.error  {
     margin-right:  10px;
 }
 .comboopack .combopackwrap .footterr .left .btnwrap .chatcta {
-    color:  goldenrod;
+    color:  orange;
     font-size:  16px;
     font-weight:  600;
     margin-right:  21px;
     padding:  15px 30px;
-    border:  1px solid goldenrod;
+    border:  1px solid orange;
     border-radius:  30px;
 }
 .comboopack .combopackwrap .footterr .left .btnwrap .chatcta span {
@@ -4536,7 +4537,7 @@ input.error  {
 }
 .comboopack .combopackwrap .footterr .right .price h2 {
     font-size:  44px;
-    color: goldenrod;
+    color: orange;
     padding-bottom:  0;
 }
 .comboopack .combopackwrap .footterr .right .price h2 span {
@@ -4602,7 +4603,7 @@ input.error  {
     border:  0;
     display:  block;
     right:  0;
-    background: goldenrod;
+    background: orange;
     width:  100%;
     height:  50px;
     border-radius:  30px;
@@ -4866,7 +4867,7 @@ p.small {
     background-position:  top right;
 }
 .packagesmain .packk .tab-custom .tabbing-links li a {
-    color: #36454F;
+    color: #0F1111;
 }
 .packagesmain .packk .tab-custom .tabbing-links li.current a {
     color:  #fff;
@@ -4894,25 +4895,25 @@ p.small {
     text-align: center;
 }
 .howsec .textwrap h2 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
 }
 .howsec .textwrap p {
-    color: #36454F;
+    color: #0F1111;
 }
 .howsec .wrap {
     padding:  60px 0;
 }
 .howsec .wrap h3 {
-    color: #36454F;
+    color: #0F1111;
     font-size:  40px;
     font-weight:  500;
     padding-bottom:  15px;
 }
 .howsec .wrap p {
-    color: #36454F;
+    color: #0F1111;
 }
 .howsec .fig {
 }
@@ -5008,7 +5009,7 @@ p.small {
     padding:  0px;
     animation:  scrollDownAnimation .5s ease infinite alternate;
     -webkit-animation:  scrollDownAnimation .5s ease infinite alternate;
-    background: goldenrod;
+    background: orange;
     background:  -moz-linear-gradient(left,  #ea018e 0%,  #9b2c92 100%);
     filter:  progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea018e',  endColorstr='#9b2c92', GradientType=1 );
 }
@@ -5084,11 +5085,11 @@ to  {
     box-shadow:  none !important;
     border:  none;
     font-weight:  bold;
-    border-bottom:  2px solid skyblue;
+    border-bottom:  2px solid sky#0F1111;
     outline-width:  0 }
 #msform .action-button  {
     width:  100px;
-    background: goldenrod;
+    background: orange;
     font-weight:  bold;
     color:  white;
     border:  0 none;
@@ -5098,7 +5099,7 @@ to  {
     margin:  10px 5px;
 }
 #msform .action-button:hover,  #msform .action-button:focus  {
-    box-shadow:  0 0 0 2px white,  0 0 0 3pxgoldenrod;
+    box-shadow:  0 0 0 2px white,  0 0 0 3pxorange;
 }
 #msform .action-button-previous  {
     width:  100px;
@@ -5119,7 +5120,7 @@ select.list-dt  {
     padding:  2px 5px 3px 5px;
     margin:  2px }
 select.list-dt:focus  {
-    border-bottom:  2px solid skyblue }
+    border-bottom:  2px solid sky#0F1111 }
 .card  {
     z-index:  0;
     border:  none;
@@ -5181,7 +5182,7 @@ select.list-dt:focus  {
     top:  25px;
     z-index:  -1 }
 #progressbar li.active:before,  #progressbar li.active:after  {
-    background: goldenrod;
+    background: orange;
 }
 .radio-group  {
     position:  relative;
@@ -5191,7 +5192,7 @@ select.list-dt:focus  {
     width:  204;
     height:  104;
     border-radius:  0;
-    background:  lightblue;
+    background:  light#0F1111;
     box-shadow:  0 2px 2px 2px rgba(0,  0,  0,  0.2);
     box-sizing:  border-box;
     cursor:  pointer;
@@ -5298,7 +5299,7 @@ select.list-dt:focus  {
     font-size:  22px;
 }
 .fr_banner .home-banner-content h1 span {
-    color: goldenrod;
+    color: orange;
     font-size:  50px;
     font-weight:  800;
 }
@@ -5315,7 +5316,7 @@ select.list-dt:focus  {
 .fr_banner .home-banner-content ul li:before  {
     content:  "\e91a";
     font-family:  'icomoon' !important;
-    color: goldenrod;
+    color: orange;
     position:  absolute;
     left:  0;
     top:  0;
@@ -5441,7 +5442,7 @@ img.helw  {
 }
 .newcbysaf .home-banner-content h2 {
     font-size:  30px;
-    color: goldenrod;
+    color: orange;
 }
 .newcbysaf .boxesinfo  {
     padding:  60px 0px;
@@ -5457,7 +5458,7 @@ img.helw  {
 .newcbysaf .home-banner-content ul li:before  {
     content:  "\e91a";
     font-family:  'icomoon' !important;
-    color: goldenrod;
+    color: orange;
     position:  absolute;
     left:  0;
     top:  0;
@@ -5476,7 +5477,7 @@ img.helw  {
     text-align:  left;
 }
 .Faqs .card-header  {
-    background: goldenrod;
+    background: orange;
     border:  1px solid #000;
 }
 section.Faqs  {
@@ -5507,7 +5508,7 @@ section.Faqs .card-body  {
 }
 .home-banner-content h2  {
     font-size:  30px;
-    color: goldenrod;
+    color: orange;
 }
 .logo_Pg .home-banner-content h1  {
     font-size:  50px;
@@ -5693,3 +5694,23 @@ overflow-y: scroll;
     overflow-x: hidden;
 }  
 
+
+
+  .marquee-container {
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .node-marquee {
+    display: inline-block;
+    animation: marquee-scroll 10s linear infinite;
+  }
+
+  @keyframes marquee-scroll {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
