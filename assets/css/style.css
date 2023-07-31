@@ -77,6 +77,17 @@ body  {
 .fc-lite  {
     color:  var(--theme-lite);
 }
+#whatsapp-container {
+    position: fixed;
+    bottom: 20px; /* Adjust the value as needed */
+    left: 20px; /* Adjust the value as needed */
+    z-index: 999; /* Ensure it appears above other elements */
+}
+
+  #whatsapp-container img {
+    width: 55px; /* Adjust the size as needed */
+    height: 55px; /* Adjust the size as needed */
+  }
 .primary-btn, .secondary-btn  {
     font-size:  13px;
     font-weight:  400;
@@ -581,7 +592,7 @@ a  {
 .dropdown > ul > li.level2:hover > ul  {
     display:  block;
 }
-.mheader.stickyheader  {
+/* .mheader.stickyheader  {
     position:  fixed;
     z-index:  9;
     min-height:  auto;
@@ -593,7 +604,7 @@ a  {
     -o-transition:  0.4s;
     transition:  0.4s;
     box-shadow:  0px 10px 23px #0000000d;
-}
+} */
 .mheader.stickyheader .logo img  {
 }
 .mheader.stickyheader .mainbarr .boxednav .navigation .linkingchannel li a {
